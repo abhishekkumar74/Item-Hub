@@ -87,4 +87,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 
 ### View Live Page
-![Click to View](https://via.placeholder.com/800x400)
+![Click to View]([https://via.placeholder.com/800x400](https://item-hub.netlify.app/))
